@@ -10,13 +10,16 @@ input {
 }
 
 #myform {
-  margin-left: 275px;
+  margin-left: 250px;
   margin-top: 20px;
 }
 
 h1 {
+  font-family: 'Manjari', sans-serif;
+  font-weight: normal;
   text-align: center;
   font-size: 80px;
   margin-right: 150px;
+  margin-left: 80px;
   margin-top: 20px;
 }
